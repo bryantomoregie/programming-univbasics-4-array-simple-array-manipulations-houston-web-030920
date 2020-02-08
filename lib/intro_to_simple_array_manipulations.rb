@@ -34,7 +34,9 @@ end
     haircuts.uniq
   end
   
-  def 
+  def using_flatten(array)
+    array.flatten
+  end
   
   
   
