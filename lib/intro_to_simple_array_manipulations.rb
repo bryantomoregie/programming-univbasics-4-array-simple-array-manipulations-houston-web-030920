@@ -31,6 +31,7 @@ end
   end
   
   def using_uniq(arrray)
+    
     haircuts.uniq
   end
   
